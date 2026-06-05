@@ -44,3 +44,9 @@ A modern full-stack portfolio website built using:
 ### Contact
 
 ![Contact](screenshots/contact.png)
+
+## Database Integration
+
+Contact form submissions are stored in MongoDB.
+
+![MongoDB](screenshots/mongodb.png)
