@@ -1,8 +1,7 @@
 const text = [
 
 "Web Developer",
-"Graphic Designer",
-"MERN Stack Learner"
+"Graphic Designer"
 
 ];
 
