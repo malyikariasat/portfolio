@@ -23,7 +23,7 @@ A modern full-stack portfolio website built using:
 
 ### About
 
-![About](screenshots/about.png)
+![About](screenshots/about.jpeg)
 
 ### Skills
 
